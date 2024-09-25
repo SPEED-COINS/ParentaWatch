@@ -1,0 +1,38 @@
+ParentaWatch/
+│
+├── backend/
+│   ├── ai_model.py
+│   ├── blockchain_security.py
+│   └── requirements.txt
+│
+├── frontend/
+│   ├── android/
+│   │   ├── app/
+│   │   │   ├── src/
+│   │   │   │   ├── main/
+│   │   │   │   │   ├── java/
+│   │   │   │   │   │   ├── NFCAuthActivity.java
+│   │   │   │   │   │   ├── MainActivity.java
+│   │   │   │   │   ├── res/
+│   │   │   │   │   │   ├── layout/
+│   │   │   │   │   │   │   ├── activity_main.xml
+│   │   │   │   │   │   │   ├── activity_login.xml
+│   │   │   │   │   │   ├── values/
+│   │   │   │   │   │       ├── strings.xml
+│   │   │   │   └── AndroidManifest.xml
+│   ├── ios/
+│   │   ├── ParentaWatch/
+│   │   │   ├── ContentView.swift
+│   │   │   ├── NFCAuth.swift
+│   │   └── ParentaWatch.xcodeproj/
+│   └── web/
+│       ├── index.html
+│       ├── style.css
+│       └── script.js
+│
+├── usb/
+│   ├── autorun-mac.plist
+│   ├── usb_installer.sh
+│   └── readme.md
+│
+└── README.md
