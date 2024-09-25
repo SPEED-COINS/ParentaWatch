@@ -1,0 +1,31 @@
+# Android specific
+*.apk
+*.iml
+.idea/
+.gradle/
+local.properties
+/.vscode/
+build/
+captures/
+.externalNativeBuild/
+
+# iOS specific
+*.xcworkspace
+*.xcuserstate
+*.xcodeproj/
+Pods/
+DerivedData/
+
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+.env
+env/
+*.env
+*.lock
+
+# macOS specific
+.DS_Store
