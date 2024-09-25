@@ -1,0 +1,23 @@
+Installation
+
+Backend
+Install dependencies:
+bash
+Copy code
+pip install -r backend/requirements.txt
+Run the backend server:
+bash
+Copy code
+python backend/blockchain_security.py
+Android
+Open frontend/android in Android Studio.
+Build and run the application.
+iOS
+Open frontend/ios/ParentaWatch.xcodeproj in Xcode.
+Build and run the application on a simulator or connected device.
+Web
+Navigate to the frontend/web directory.
+Open index.html in a browser to view the web interface.
+Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss the change you want to make.
